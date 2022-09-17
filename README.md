@@ -1,5 +1,6 @@
 # Proyecto1-SIG
-
+## Instituto Tecnológico de Costa Rica
+## Escuela de Computación
 Curso: Sistemas de Información Geográfica
 Segundo semestre 2022
 Estudiantes:
